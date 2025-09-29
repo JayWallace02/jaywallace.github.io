@@ -19,7 +19,7 @@ Forecasts monthly return and volatility for Bonds, Equities, and Gold using LSTM
 - ✅ Dynamic portfolio allocation using MVO
 - 📄 [View Thesis PDF](https://github.com/JayWallace02/ml-asset-forecasting/blob/main/FYP_Project_2025.pdf)
 
-
+### 📌 [Sp500 Intra day trading Stratergy] (
 ---
 
 
