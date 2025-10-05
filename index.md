@@ -29,6 +29,7 @@ The strategy activates during **SMA crossover events**, refined through:
 - 🧮 **Regime Filtering:** Trades only in high-confidence market conditions  
 
 #### 📊 Performance (Unseen Test Set)
+
 | Metric | Value |
 |:--|:--|
 | **Sharpe Ratio** | **1.71** |
@@ -37,6 +38,7 @@ The strategy activates during **SMA crossover events**, refined through:
 | **Total Trades** | **1,522** |
 
 📄 [**View Strategy Report (PDF)**](./Sp500_Intra_day_breakout_Stratergy_Report.pdf)
+
 
 
 ---
