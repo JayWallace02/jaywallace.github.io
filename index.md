@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Wallace
 
-Quantitative Strategy | Computer Science & Business | Trinity College Dublin (2025)
+Quantitative Strategy | Financial Mathematics MSc | Bayes Business School (2025-2026) | Computer Science & Business | Trinity College Dublin (2021-2025)
 
 ---
 
